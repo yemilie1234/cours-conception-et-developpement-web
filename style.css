@@ -8,3 +8,6 @@ img{
 table{
   border-width: 5px;
   border-style:groove;}
+p{
+  color:blue;
+  font-size:12px;}
