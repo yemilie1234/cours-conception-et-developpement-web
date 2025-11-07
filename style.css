@@ -16,13 +16,13 @@ table{
   border-width:5px;
   border-style:solid;
   border-color:#A6CEFF;
-  border-radius:5px}
+  border-radius:5px;
+  border-collapse:collapse;
+  margin:auto;}
 td,tr{
   border-width:1px;
   border-style:solid;
-  border-color:#A6CEFF;
-  position:absolute;
-  right:30px;}
+  border-color:#A6CEFF;}
 p{
   color:blue;
   font-size:12px;}
