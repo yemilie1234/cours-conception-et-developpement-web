@@ -12,11 +12,13 @@ img{
   position:absolute;
   top:5px;
   right:5px;}
-table, td, tr{
+table{
   border-width:5px;
   border-style:solid;
   border-color: light blue;
-  border-radius:10px}
+  border-radius:5px}
+td,tr{
+  border-width:1px;}
 p{
   color:blue;
   font-size:12px;}
