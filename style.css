@@ -6,7 +6,10 @@ img{
   top:5px;
   right:5px;}
 table{
-  border-width:5px;}
+  border-width:5px;
+  border-style:solid;
+  border-color: blue;
+  border-radius:10px}
 p{
   color:blue;
   font-size:12px;}
