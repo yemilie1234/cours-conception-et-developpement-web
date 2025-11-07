@@ -5,8 +5,9 @@ h1{
   border-width:3px;
   border-style:dotted;
   border-color:#FF94BE;
-  border-radius:10px;
-  background-color:#FCFCFC;}
+  border-radius:50px;
+  background-color:#FCFCFC;
+  padding:20px;}
 img{ 
   width:200px;
   position:absolute;
