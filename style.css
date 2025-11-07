@@ -12,10 +12,10 @@ img{
   position:absolute;
   top:5px;
   right:5px;}
-table{
+table, td, tr{
   border-width:5px;
   border-style:solid;
-  border-color: blue;
+  border-color: light blue;
   border-radius:10px}
 p{
   color:blue;
