@@ -18,7 +18,9 @@ table{
   border-color:blue;
   border-radius:5px}
 td,tr{
-  border-width:1px;}
+  border-width:1px;
+  border-style:solid;
+  border-color:blue;}
 p{
   color:blue;
   font-size:12px;}
