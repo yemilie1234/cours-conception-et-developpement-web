@@ -15,7 +15,7 @@ img{
 table{
   border-width:5px;
   border-style:solid;
-  border-color: light blue;
+  border-color:blue;
   border-radius:5px}
 td,tr{
   border-width:1px;}
