@@ -1,6 +1,6 @@
 h1{
   text-align:center;
-  color:blue;
+  color:#FFE4E1;
   font-size:55px;
   border-width:3px;
   border-style:dotted;
@@ -15,12 +15,12 @@ img{
 table{
   border-width:5px;
   border-style:solid;
-  border-color:blue;
+  border-color:#FFE4E1;
   border-radius:5px}
 td,tr{
   border-width:1px;
   border-style:solid;
-  border-color:blue;
+  border-color:#FFE4E1;
   position:absolute;
   right:30px;}
 p{
