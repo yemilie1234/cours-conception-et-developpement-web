@@ -1,7 +1,11 @@
 h1{
   text-align:center;
   color:pale pink;
-  font-size:55px;}
+  font-size:55px;
+  border-width:3px;
+  border-style:dotted;
+  border-color:pink;
+  border-radius:40px}
 img{ 
   width:200px;
   position:absolute;
