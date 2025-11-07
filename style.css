@@ -5,8 +5,8 @@ h1{
   border-width:3px;
   border-style:dotted;
   border-color:blue;
-  border-radius:40px
-  background-color:grey}
+  border-radius:40px;
+  background-color:grey;}
 img{ 
   width:200px;
   position:absolute;
