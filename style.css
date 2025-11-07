@@ -20,7 +20,9 @@ table{
 td,tr{
   border-width:1px;
   border-style:solid;
-  border-color:blue;}
+  border-color:blue;
+  position:absolute;
+  right:30px;}
 p{
   color:blue;
   font-size:12px;}
