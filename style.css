@@ -1,12 +1,12 @@
 h1{
   text-align:center;
-  color:light blue;
+  color:blue;
   font-size:55px;
   border-width:3px;
   border-style:dotted;
-  border-color:light blue;
+  border-color:blue;
   border-radius:40px
-  background-color:light grey}
+  background-color:grey}
 img{ 
   width:200px;
   position:absolute;
