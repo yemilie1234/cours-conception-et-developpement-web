@@ -33,4 +33,5 @@ html{
 img batiment-inalco{
   width:300px;
   position:absolute;
-  cursor:pointer}
+  cursor:pointer;
+  left:10px;}
