@@ -8,7 +8,7 @@ h1{
   border-radius:50%;
   background-color:#FCFCFC;
   padding:20px;}
-img logo-inalco{ 
+#logo{ 
   width:200px;
   position:absolute;
   top:5px;
@@ -30,7 +30,7 @@ p{
   font-size:12px;}
 html{
   background-color:pink;}
-img batiment-inalco{
+img{
   width:200px;
   position:absolute;
   cursor:pointer;
